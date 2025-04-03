@@ -1,0 +1,7 @@
+{
+  "name": "ProyectoVocani",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
